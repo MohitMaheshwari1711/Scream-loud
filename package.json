@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.0",
     "dayjs": "^1.8.18",
+    "gh-pages": "^2.1.1",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
     "react": "^16.12.0",
@@ -22,6 +23,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -41,5 +44,6 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://github.com/MohitMaheshwari1711/Scream-loud.git",
   "proxy": "https://europe-west1-shoutout-e08db.cloudfunctions.net/api"
 }
