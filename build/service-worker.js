@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Scream-loud/precache-manifest.f358c749b783423a05c319e02fff8b6c.js"
+  "/Scream-loud/precache-manifest.ef254da0935791daf0e046033b7626b9.js"
 );
 
 self.addEventListener('message', (event) => {
