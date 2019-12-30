@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MohitMaheshwari1711/Scream-loud.git/static/css/main.344fd161.chunk.css",
-    "main.js": "/MohitMaheshwari1711/Scream-loud.git/static/js/main.e3a7fc22.chunk.js",
-    "main.js.map": "/MohitMaheshwari1711/Scream-loud.git/static/js/main.e3a7fc22.chunk.js.map",
-    "runtime-main.js": "/MohitMaheshwari1711/Scream-loud.git/static/js/runtime-main.4e617a3b.js",
-    "runtime-main.js.map": "/MohitMaheshwari1711/Scream-loud.git/static/js/runtime-main.4e617a3b.js.map",
-    "static/js/2.7a208c2d.chunk.js": "/MohitMaheshwari1711/Scream-loud.git/static/js/2.7a208c2d.chunk.js",
-    "static/js/2.7a208c2d.chunk.js.map": "/MohitMaheshwari1711/Scream-loud.git/static/js/2.7a208c2d.chunk.js.map",
-    "index.html": "/MohitMaheshwari1711/Scream-loud.git/index.html",
-    "precache-manifest.e73620fadd6bea27263d71eea3f1127b.js": "/MohitMaheshwari1711/Scream-loud.git/precache-manifest.e73620fadd6bea27263d71eea3f1127b.js",
-    "service-worker.js": "/MohitMaheshwari1711/Scream-loud.git/service-worker.js",
-    "static/css/main.344fd161.chunk.css.map": "/MohitMaheshwari1711/Scream-loud.git/static/css/main.344fd161.chunk.css.map",
-    "static/js/2.7a208c2d.chunk.js.LICENSE": "/MohitMaheshwari1711/Scream-loud.git/static/js/2.7a208c2d.chunk.js.LICENSE",
-    "static/media/logo.svg": "/MohitMaheshwari1711/Scream-loud.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Scream-loud/static/css/main.344fd161.chunk.css",
+    "main.js": "/Scream-loud/static/js/main.2c140cd4.chunk.js",
+    "main.js.map": "/Scream-loud/static/js/main.2c140cd4.chunk.js.map",
+    "runtime-main.js": "/Scream-loud/static/js/runtime-main.a74683c3.js",
+    "runtime-main.js.map": "/Scream-loud/static/js/runtime-main.a74683c3.js.map",
+    "static/js/2.7a208c2d.chunk.js": "/Scream-loud/static/js/2.7a208c2d.chunk.js",
+    "static/js/2.7a208c2d.chunk.js.map": "/Scream-loud/static/js/2.7a208c2d.chunk.js.map",
+    "index.html": "/Scream-loud/index.html",
+    "precache-manifest.f358c749b783423a05c319e02fff8b6c.js": "/Scream-loud/precache-manifest.f358c749b783423a05c319e02fff8b6c.js",
+    "service-worker.js": "/Scream-loud/service-worker.js",
+    "static/css/main.344fd161.chunk.css.map": "/Scream-loud/static/css/main.344fd161.chunk.css.map",
+    "static/js/2.7a208c2d.chunk.js.LICENSE": "/Scream-loud/static/js/2.7a208c2d.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Scream-loud/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e617a3b.js",
+    "static/js/runtime-main.a74683c3.js",
     "static/js/2.7a208c2d.chunk.js",
     "static/css/main.344fd161.chunk.css",
-    "static/js/main.e3a7fc22.chunk.js"
+    "static/js/main.2c140cd4.chunk.js"
   ]
 }

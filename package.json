@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +44,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/MohitMaheshwari1711/Scream-loud.git",
+  "homepage": "https://MohitMaheshwari1711.github.io/Scream-loud",
   "proxy": "https://europe-west1-shoutout-e08db.cloudfunctions.net/api"
 }
